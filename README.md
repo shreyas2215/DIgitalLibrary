@@ -21,12 +21,18 @@ Installation-
 1. Clone the repository:
    ```sh
    git clone https://github.com/shreyas2215/DigitalLibrary.git
-
 Running the program-
 
-Navigate to the project folder-
- cd DigitalLibrary 
-Compile the files-
- javac Booksystem.java library.java
-Launch the DigitalLibrary-
- java library
+1.Navigate to the project folder-
+    
+     cd DigitalLibrary
+     
+2.Compile the files-
+    
+
+    javac Booksystem.java library.java
+    
+3.Launch the DigitalLibrary-
+
+    java library
+
